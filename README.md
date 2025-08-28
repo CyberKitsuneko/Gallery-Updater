@@ -1,2 +1,2 @@
-# gallery-dl-Gallery-Updater
+# Gallery-Updater
 A bit of script that updates your downloaded galleries from gallery-dl.
